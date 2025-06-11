@@ -1,28 +1,31 @@
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=chathura-kulathunga&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 <h1 align="center">Hi 👋, I'm Chathura Kulathunga</h1>
 <h3 align="center">💻 Fullstack Developer | ☕ Java Enthusiast | 🇱🇰 Based in Sri Lanka</h3>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chathura-kulathunga&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java Icon" width="200" style="filter: brightness(0) invert(1);" />
+</p>
+<p align="center">
+  📫 <strong>Email:</strong> <a href="mailto:chathurakulathunga.foxc@gmail.com" target="_blank" rel="noopener noreferrer">chathurakulathunga.foxc@gmail.com</a>
 </p>
 
 ---
 
 ## 🚀 Tech Stack
 
-<div align="center">
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="Arduino"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="Photoshop"/>
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java" width="80" alt="Java" />
+  <img src="https://skillicons.dev/icons?i=php" width="80" alt="PHP" />
+  <img src="https://skillicons.dev/icons?i=javascript" width="80" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=mysql" width="80" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=html" width="80" alt="HTML5" />
+  <img src="https://skillicons.dev/icons?i=css" width="80" alt="CSS3" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="80" alt="Bootstrap" />
+  <img src="https://skillicons.dev/icons?i=linux" width="80" alt="Linux" />
+  <img src="https://skillicons.dev/icons?i=arduino" width="80" alt="Arduino" />
+  <img src="https://skillicons.dev/icons?i=photoshop" width="80" alt="Photoshop" />
+</p>
 
 ---
 
@@ -40,10 +43,6 @@
 </p>
 
 ###
-
-<p align="center">
-  📫 <strong>Email:</strong> <a href="mailto:chathurakulathunga.foxc@gmail.com" target="_blank" rel="noopener noreferrer">chathurakulathunga.foxc@gmail.com</a>
-</p>
 
 ---
 
@@ -95,3 +94,11 @@
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="Buy Me A Coffee" />
   </a>
 </p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" alt="Thank You" width="250" />
+</p>
+
+---
