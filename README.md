@@ -71,7 +71,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chathura-kulathunga&show_icons=true&theme=github_dark" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chathura-kulathunga&layout=compact&theme=github_dark&cache_bust=20250611" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chathura-kulathunga&layout=compact&theme=github_dark&cache_bust=20350613" height="165"/>
+
 
 </p>
 
