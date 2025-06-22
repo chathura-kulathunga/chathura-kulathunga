@@ -97,7 +97,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" alt="Thank You" width="250" />
+  <img src="https://raw.githubusercontent.com/chathura-kulathunga/everything-and-nothing/main/assets/flying-dog.gif" width="250" alt="Flying Dog" />
 </p>
 
 ---
