@@ -50,6 +50,7 @@
 ### 🔭 Projects I'm Working On
 - 🚙 **Safari Business Management System** – Java GUI + MySQL
 - 🛒 **Online Store (eCommerce)** – PHP + JS + MySQL
+- 📱 **Mobile Applications** – React Native 
 
 ---
 
