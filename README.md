@@ -16,6 +16,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java" width="80" alt="Java" />
+  <img src="https://skillicons.dev/icons?i=react" width="80" alt="React Native" />
   <img src="https://skillicons.dev/icons?i=php" width="80" alt="PHP" />
   <img src="https://skillicons.dev/icons?i=javascript" width="80" alt="JavaScript" />
   <img src="https://skillicons.dev/icons?i=mysql" width="80" alt="MySQL" />
