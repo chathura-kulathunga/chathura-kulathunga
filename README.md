@@ -43,8 +43,6 @@
   </a>
 </p>
 
-###
-
 ---
 
 ### 🔭 Projects I'm Working On
@@ -72,8 +70,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chathura-kulathunga&show_icons=true&theme=github_dark" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chathura-kulathunga&layout=compact&theme=github_dark&cache_bust=20350613" height="165"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=chathura-kulathunga&show_icons=true&theme=github_dark" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=chathura-kulathunga&layout=compact&theme=github_dark" height="165" alt="Top Languages" />
 </p>
 
 ---
@@ -82,7 +80,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=chathura-kulathunga&theme=onestar&no-frame=true&no-bg=true&margin-w=10" alt="Trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=chathura-kulathunga&theme=onestar&margin-w=10" alt="Trophies"/>
   </a>
 </p>
 
