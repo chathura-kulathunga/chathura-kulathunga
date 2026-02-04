@@ -79,7 +79,9 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chathura-kulathunga&theme=onedark&no-frame=false&margin-w=15" alt="Trophies" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=chathura-kulathunga&theme=onestar&no-bg=true&margin-w=10" alt="Trophies" />
+  </a>
 </p>
 
 ---
