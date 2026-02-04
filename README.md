@@ -70,8 +70,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=chathura-kulathunga&show_icons=true&theme=github_dark" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=chathura-kulathunga&layout=compact&theme=github_dark" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=chathura-kulathunga&show_icons=true&theme=github_dark&count_private=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=chathura-kulathunga&layout=compact&theme=github_dark&hide_border=false" height="165" alt="Top Languages" />
 </p>
 
 ---
@@ -79,9 +79,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=chathura-kulathunga&theme=onestar&margin-w=10" alt="Trophies"/>
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=chathura-kulathunga&theme=onedark&no-frame=false&margin-w=15" alt="Trophies" />
 </p>
 
 ---
