@@ -25,7 +25,6 @@
   <img src="https://skillicons.dev/icons?i=bootstrap" width="80" alt="Bootstrap" />
   <img src="https://skillicons.dev/icons?i=linux" width="80" alt="Linux" />
   <img src="https://skillicons.dev/icons?i=arduino" width="80" alt="Arduino" />
-  <img src="https://skillicons.dev/icons?i=photoshop" width="80" alt="Photoshop" />
 </p>
 
 ---
@@ -46,9 +45,11 @@
 ---
 
 ### 🔭 Projects I'm Working On
-- 🚙 **Safari Business Management System** – Java GUI + MySQL
 - 🛒 **Online Store (eCommerce)** – PHP + JS + MySQL
-- 📱 **Mobile Applications** – React Native 
+- 🏆 **Sports Web Project** – PHP + JS + MySQL 
+- 🤖 **Robotic Research Project**
+- ⚛️ **React Projects** – React
+- 📱 **Mobile Applications** – React Native
 
 ---
 
@@ -79,9 +80,9 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=chathura-kulathunga&theme=onestar&no-bg=true&margin-w=10" alt="Trophies" />
-  </a>
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=chathura-kulathunga&theme=darkhub&no-frame=true&margin-w=10" 
+    alt="GitHub Trophies" />
 </p>
 
 ---
