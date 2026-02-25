@@ -22,7 +22,6 @@
   <img src="https://skillicons.dev/icons?i=mysql" width="80" alt="MySQL" />
   <img src="https://skillicons.dev/icons?i=html" width="80" alt="HTML5" />
   <img src="https://skillicons.dev/icons?i=css" width="80" alt="CSS3" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" width="80" alt="Bootstrap" />
   <img src="https://skillicons.dev/icons?i=linux" width="80" alt="Linux" />
   <img src="https://skillicons.dev/icons?i=arduino" width="80" alt="Arduino" />
 </p>
