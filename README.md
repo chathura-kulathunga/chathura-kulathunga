@@ -24,6 +24,10 @@
   <img src="https://skillicons.dev/icons?i=css" width="80" alt="CSS3" />
   <img src="https://skillicons.dev/icons?i=linux" width="80" alt="Linux" />
   <img src="https://skillicons.dev/icons?i=arduino" width="80" alt="Arduino" />
+</p>
+
+<p align="center">
+  <!-- MERN Stack -->
   <img src="https://skillicons.dev/icons?i=nodejs" width="80" alt="Node.js" />
   <img src="https://skillicons.dev/icons?i=express" width="80" alt="Express.js" />
   <img src="https://skillicons.dev/icons?i=react" width="80" alt="React.js" />
