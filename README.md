@@ -5,10 +5,10 @@
 <h3 align="center">💻 Fullstack Developer | ☕ Java Enthusiast | 🇱🇰 Based in Sri Lanka</h3>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java Icon" width="110" />
-  
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java Icon" width="200" style="filter: brightness(0) invert(1);" />
+</p>
+
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="80" />
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="80" style="filter: invert(1);" />
