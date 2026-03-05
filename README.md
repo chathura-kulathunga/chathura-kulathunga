@@ -3,9 +3,19 @@
 </p>
 <h1 align="center">Hi 👋, I'm Chathura Kulathunga</h1>
 <h3 align="center">💻 Fullstack Developer | ☕ Java Enthusiast | 🇱🇰 Based in Sri Lanka</h3>
+
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java Icon" width="200" style="filter: brightness(0) invert(1);" />
+  
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="80" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="80" style="filter: invert(1);" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="80" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="80" />
 </p>
+
 <p align="center">
   📫 <strong>Email:</strong> <a href="mailto:chathurakulathunga.foxc@gmail.com" target="_blank" rel="noopener noreferrer">chathurakulathunga.foxc@gmail.com</a>
 </p>
