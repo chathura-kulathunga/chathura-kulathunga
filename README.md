@@ -28,7 +28,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java" width="80" alt="Java" />
-  <img src="https://skillicons.dev/icons?i=android" width="80" alt="Android" />
+  <img src="https://skillicons.dev/icons?i=android-dark" width="80" alt="Android" />
   <img src="https://skillicons.dev/icons?i=flutter" width="80" alt="Flutter" />
   <img src="https://skillicons.dev/icons?i=react" width="80" alt="React Native" />
   <img src="https://skillicons.dev/icons?i=php" width="80" alt="PHP" />
