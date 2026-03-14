@@ -66,10 +66,12 @@
 ---
 
 ### 🔭 Projects I'm Working On
+
+- 📱 **Native Android (mCommerce)** – Java + XML + Firebase
 - 🛒 **Online Store (eCommerce)** – PHP + JS + MySQL
 - 🏆 **Sports Web Project** – PHP + JS + MySQL 
-- 🤖 **Robotic Research Project**
-- ⚛️ **React Projects** – React
+- 🤖 **Robotic Research Project (VELOX)** – Arduino + Software Engineering
+- ⚛️ **React Projects** – React.js
 - 📱 **Mobile Applications** – React Native
 
 ---
