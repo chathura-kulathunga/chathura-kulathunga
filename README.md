@@ -73,6 +73,7 @@
 - 🤖 **Robotic Research Project (VELOX)** – Arduino + Software Engineering
 - ⚛️ **React Projects** – React.js
 - 📱 **Mobile Applications** – React Native
+- 📱 **Mobile Applications** – Flutter
 
 ---
 
