@@ -78,7 +78,7 @@
 ---
 
 ### 💬 Ask Me About
-`Java` | `PHP` | `MySQL` | `NetBeans GUIs` | `UI/UX Design` | `Backend Logic`
+`Java` | `PHP` | `MySQL` | `NetBeans GUIs` | `UI/UX Design` | `Backend Logic` | `Android`
 
 ---
 
