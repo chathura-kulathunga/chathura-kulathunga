@@ -28,6 +28,8 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java" width="80" alt="Java" />
+  <img src="https://skillicons.dev/icons?i=python" width="80" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=cpp" width="80" alt="C++" />
   <img src="https://skillicons.dev/icons?i=androidstudio" width="80" alt="Android Studio" />
   <img src="https://skillicons.dev/icons?i=flutter" width="80" alt="Flutter" />
   <img src="https://skillicons.dev/icons?i=react" width="80" alt="React Native" />
@@ -78,7 +80,7 @@
 ---
 
 ### 💬 Ask Me About
-`Java` | `PHP` | `MySQL` | `NetBeans GUIs` | `UI/UX Design` | `Backend Logic` | `Android`
+`Java` | `Python` | `C++` | `PHP` | `MySQL` | `NetBeans GUIs` | `UI/UX Design` | `Backend Logic` | `Android`
 
 ---
 
