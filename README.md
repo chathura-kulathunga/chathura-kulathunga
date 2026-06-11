@@ -72,7 +72,7 @@
 - 📱 **Native Android (mCommerce)** – Java + XML + Firebase
 - 🛒 **Online Store (eCommerce)** – PHP + JS + MySQL
 - 🏆 **Sports Web Project** – PHP + JS + MySQL 
-- 🤖 **Robotic Research Project (VELOX)** – Arduino + Software Engineering
+- 🤖 **Robotic Research Project** – Arduino + Software Engineering
 - ⚛️ **React Projects** – React.js
 - 📱 **Mobile Applications** – React Native
 - 📱 **Mobile Applications** – Flutter
