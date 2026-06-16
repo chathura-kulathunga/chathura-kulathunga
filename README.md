@@ -39,11 +39,11 @@
   <img src="https://skillicons.dev/icons?i=html" width="80" alt="HTML5" />
   <img src="https://skillicons.dev/icons?i=css" width="80" alt="CSS3" />
   <img src="https://skillicons.dev/icons?i=linux" width="80" alt="Linux" />
+  <img src="https://skillicons.dev/icons?i=kali" width="80" alt="Kali Linux" />
   <img src="https://skillicons.dev/icons?i=arduino" width="80" alt="Arduino" />
 </p>
 
 <p align="center">
-  <!-- MERN Stack -->
   <img src="https://skillicons.dev/icons?i=nodejs" width="80" alt="Node.js" />
   <img src="https://skillicons.dev/icons?i=express" width="80" alt="Express.js" />
   <img src="https://skillicons.dev/icons?i=react" width="80" alt="React.js" />
@@ -69,10 +69,11 @@
 
 ### 🔭 Projects I'm Working On
 
+- 🤖 **VELOX Service Robot** – Arduino + C++ + Mechanical Design (Food Service)
+- 🛡️ **Cybersecurity & Networking** – Nmap, Kali Linux, and Ethical Hacking labs
 - 📱 **Native Android (mCommerce)** – Java + XML + Firebase
 - 🛒 **Online Store (eCommerce)** – PHP + JS + MySQL
 - 🏆 **Sports Web Project** – PHP + JS + MySQL 
-- 🤖 **Robotic Research Project** – Arduino + Software Engineering
 - ⚛️ **React Projects** – React.js
 - 📱 **Mobile Applications** – React Native
 - 📱 **Mobile Applications** – Flutter
@@ -80,12 +81,13 @@
 ---
 
 ### 💬 Ask Me About
-`Java` | `Python` | `C++` | `PHP` | `MySQL` | `NetBeans GUIs` | `UI/UX Design` | `Backend Logic` | `Android`
+`Java` | `Python` | `C++ & Arduino Logic` | `Networking & Cybersecurity` | `PHP` | `MySQL` | `NetBeans GUIs` | `UI/UX Design` | `Android`
 
 ---
 
 ### 🌱 Currently Learning
 - 🧠 **Flutter** for mobile app development
+- 🔌 **C++ & Networking** for hardware integration, robotics, and cybersecurity protocols
 
 ---
 
@@ -126,5 +128,3 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/chathura-kulathunga/everything-and-nothing/main/assets/flying-dog.gif" width="250" alt="Flying Dog" />
 </p>
-
----
