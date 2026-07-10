@@ -54,7 +54,7 @@
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/chathura-kulathunga" target="_blank">
+  <a href="https://www.linkedin.com/in/chathura-kulathunga-b75817276" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:chathurakulathunga.foxc@gmail.com">
@@ -69,7 +69,7 @@
 
 ### 🔭 Projects I'm Working On
 
-- 🤖 **VELOX Service Robot** – Arduino + C++ + Mechanical Design (Food Service)
+- 🤖 **...Robots** – Arduino + C++ 
 - 🛡️ **Cybersecurity & Networking** – Nmap, Kali Linux, and Ethical Hacking labs
 - 📱 **Native Android (mCommerce)** – Java + XML + Firebase
 - 🛒 **Online Store (eCommerce)** – PHP + JS + MySQL
