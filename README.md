@@ -73,7 +73,6 @@
 - 🛡️ **Cybersecurity & Networking** – Nmap, Kali Linux, and Ethical Hacking labs
 - 📱 **Native Android (mCommerce)** – Java + XML + Firebase
 - 🛒 **Online Store (eCommerce)** – PHP + JS + MySQL
-- 🏆 **Sports Web Project** – PHP + JS + MySQL 
 - ⚛️ **React Projects** – React.js
 - 📱 **Mobile Applications** – React Native
 - 📱 **Mobile Applications** – Flutter
