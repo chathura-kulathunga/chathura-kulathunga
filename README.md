@@ -74,8 +74,8 @@
 - 📱 **Native Android (mCommerce)** – Java + XML + Firebase
 - 🛒 **Online Store (eCommerce)** – PHP + JS + MySQL
 - ⚛️ **React Projects** – React.js
-- 📱 **Mobile Applications** – React Native
 - 📱 **Mobile Applications** – Flutter
+- 📱 **Mobile Applications** – React Native
 
 ---
 
