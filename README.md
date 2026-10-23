@@ -88,14 +88,14 @@
 
 ## 💼 Projects I'm Working On
 
-- 🤖 **Robotics & Embedded Systems** — Arduino, C++, and hardware integration.
-- 🛡️ **Cybersecurity & Networking** — network technologies, Kali Linux, Nmap, and security labs.
-- 📱 **Native Android (mCommerce)** — Java, XML, and Firebase.
-- 🛒 **Online Store (eCommerce)** — PHP, JavaScript, and MySQL.
-- ⚛️ **React Projects** — modern web interfaces with React.js.
-- 📱 **Mobile Applications** — Flutter development.
-- 📱 **Mobile Applications** — React Native development.
-- 🌐 **Networking Labs** — exploring network configurations, connectivity, and troubleshooting.
+- 🤖 **Robotics & Embedded Systems** - Arduino, C++, and hardware integration.
+- 🛡️ **Cybersecurity & Networking** - network technologies, Kali Linux, Nmap, and security labs.
+- 📱 **Native Android (mCommerce)** - Java, XML, and Firebase.
+- 🛒 **Online Store (eCommerce)** - PHP, JavaScript, and MySQL.
+- ⚛️ **React Projects** - modern web interfaces with React.js.
+- 📱 **Mobile Applications** - Flutter development.
+- 📱 **Mobile Applications** - React Native development.
+- 🌐 **Networking Labs** - exploring network configurations, connectivity, and troubleshooting.
 
 ---
 
@@ -107,11 +107,11 @@
 
 ## 🌱 Currently Exploring
 
-- 🧠 **Flutter** — mobile application development.
-- 🔌 **C++ & Hardware Integration** — robotics and communication protocols.
-- 🌐 **Computer Networking** — network fundamentals, routing, switching, and infrastructure.
-- 🔐 **Cybersecurity** — network security, traffic analysis, and ethical hacking.
-- ⚛️ **MERN Stack** — MongoDB, Express.js, React.js, and Node.js.
+- 🧠 **Flutter** - mobile application development.
+- 🔌 **C++ & Hardware Integration** - robotics and communication protocols.
+- 🌐 **Computer Networking** - network fundamentals, routing, switching, and infrastructure.
+- 🔐 **Cybersecurity** - network security, traffic analysis, and ethical hacking.
+- ⚛️ **MERN Stack** - MongoDB, Express.js, React.js, and Node.js.
 
 ---
 
