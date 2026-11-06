@@ -1,4 +1,4 @@
- <p align="right">
+<p align="right">
   <img src="https://komarev.com/ghpvc/?username=chathura-kulathunga&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
@@ -71,6 +71,16 @@
   </a>
 </p>
 
+### 🏅 Certifications & Credentials
+
+<p align="center">
+  <a href="https://www.credly.com/badges/2492aeda-89b8-49fc-9ab2-70d2b091f6d3" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Cisco_Networking_Academy-Networking_Basics_(Verified)-049FD9?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Networking Basics Verified Badge" />
+  </a>
+</p>
+
+- 🎖️ **Networking Basics** — *Issued by Cisco Networking Academy (Nov 2026)* · [Verify Credential on Credly](https://www.credly.com/badges/2492aeda-89b8-49fc-9ab2-70d2b091f6d3)
+
 ### 📡 Networking Interests
 
 - 🌐 Network architecture, topologies, and communication protocols.
@@ -82,7 +92,7 @@
 
 ### 🧰 Technologies & Concepts
 
-`TCP/IP` · `OSI Model` · `IPv4/IPv6` · `Subnetting` · `DNS` · `DHCP` · `VLANs` · `Switching` · `Routing` · `Cisco` · `Wireshark` · `Nmap` · `Linux Networking`
+`TCP/IP` · `OSI Model` · `IPv4/IPv6` · `Subnetting` · `DNS` · `DHCP` · `VLANs` · `Switching` · `Routing` · `Cisco` · `Cisco Packet Tracer` · `Network Media` · `Wireless Access` · `Application Layer Services` · `Protocols Standards` · `Wireshark` · `Nmap` · `Linux Networking`
 
 ---
 
@@ -95,7 +105,7 @@
 - ⚛️ **React Projects** - modern web interfaces with React.js.
 - 📱 **Mobile Applications** - Flutter development.
 - 📱 **Mobile Applications** - React Native development.
-- 🌐 **Networking Labs** - exploring network configurations, connectivity, and troubleshooting.
+- 🌐 **Networking Labs** - Cisco Packet Tracer topologies, network configurations, connectivity, and troubleshooting.
 
 ---
 
